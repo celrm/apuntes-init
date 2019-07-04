@@ -1,0 +1,4 @@
+\select@language {spanish}
+\contentsline {section}{Índice}{2}{section*.1}
+\contentsline {section}{Lista de definiciones}{3}{section*.2}
+\contentsline {section}{Lista de teoremas, lemas y corolarios}{4}{section*.3}
